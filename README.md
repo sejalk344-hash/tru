@@ -1,0 +1,2 @@
+# tru
+my third wecfg
